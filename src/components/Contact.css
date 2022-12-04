@@ -1,0 +1,60 @@
+.contact{
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background-image:"fitness.png" ;
+    background-image: url("./images/bgimg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.contact-container{
+    padding-top: 4rem;
+    padding-left: 1rem;
+    margin-top: 4rem;
+    padding-bottom: 2rem;
+    box-shadow: 3rem;
+    border-color:black ;
+    z-index: 1;
+    width: 50%;
+    height: 20%;
+    margin-left: 25%;
+    box-shadow: 4px;
+    background-color:black;
+    opacity: 0.6;
+    border-radius: 2rem;
+}
+
+Form{
+    font-weight: 800;
+    z-index: 999;
+    /* color: black; */
+    opacity:100;
+    color: beige;
+}
+
+.contact-container input{
+    margin-bottom: 1rem;
+    margin-right: 2rem;
+    font-weight: 500;
+    padding-bottom: 1rem;
+    font-size: 17px;
+    z-index: 1;
+    /* opacity: 1; */
+    /* text-align: justify; */
+}
+
+.description{
+  height:8rem;
+  width: 27rem;
+  /* word-wrap:; */
+  /* text-align: start; */
+}
+
+.btn{
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+    background-color:grey;
+    /* color: yellow; */
+}

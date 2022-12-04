@@ -1,0 +1,18 @@
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutimg{
+    width: 30%;
+    padding: 12px 8px;
+
+}
+
+.aboutsec{
+    text-align: center;
+    word-spacing: 7px;
+    letter-spacing: 1px;
+    margin-top: 10%;
+}
+    
